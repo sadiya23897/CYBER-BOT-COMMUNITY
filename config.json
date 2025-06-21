@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "keyActive": "",
+    "keyActive": "ooi",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
@@ -13,13 +13,13 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
+    "EMAIL": "mizanur2389@gmail.com ",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "Queen Sadiya",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
+        "61577841560190",
         "61576520552554",
         "61550035211214"
     ],
